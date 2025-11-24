@@ -25,5 +25,3 @@ Managing table allocation, taking customer orders, calculating bills, and freein
 - **Table Release:** Marks the table as free after payment.
 - **User-Friendly Flow:** Continuous loop allowing multiple customers until exit.
   
-
-
