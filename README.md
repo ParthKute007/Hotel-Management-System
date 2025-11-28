@@ -85,4 +85,3 @@ A Python-based restaurant management system that handles table bookings, order p
 - Open and verify bill format and calculations.
 
 
-
