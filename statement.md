@@ -24,3 +24,4 @@ Managing table allocation, taking customer orders, calculating bills, and freein
 - **Bill Generation:** Creates a detailed text file showing all items and total cost.
 - **Table Release:** Marks the table as free after payment.
 - **User-Friendly Flow:** Continuous loop allowing multiple customers until exit.
+- 
