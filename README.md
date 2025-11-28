@@ -84,4 +84,3 @@ A Python-based restaurant management system that handles table bookings, order p
 - Check for `bill_table_X.txt` files in the directory
 - Open and verify bill format and calculations.
 
-
